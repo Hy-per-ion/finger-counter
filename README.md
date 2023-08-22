@@ -1,1 +1,1 @@
-# finger-counter
+# Open cv live finger counter
